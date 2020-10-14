@@ -1,2 +1,2 @@
-# Learning-to-be-Cautious
+# Learn-to-be-Cautious
 Learning to be Cautious
