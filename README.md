@@ -4,7 +4,7 @@ Learning to be Cautious
 
 [Notebook](https://github.com/montaserFath/Learning-to-be-Cautious/blob/main/Learning_to_be_Cautious.ipynb) is a single notebook including:
 
-    1- Loading datasets (MNIST, Fashion-MNIST, and E-MNIST) and converting it to a multi-armed bandit setting (convert labels $\\to$ arms or actions).
+    1- Loading datasets (MNIST, Fashion-MNIST, and E-MNIST) and converting it to a multi-armed bandit setting (convert labels to arms or actions).
    
     2- Train Deep Ensemble for be a reward distribution to caputure the epistemic uncertainty (train number of Neural Neworks with the same training data but with different initialization for the networks).
 
